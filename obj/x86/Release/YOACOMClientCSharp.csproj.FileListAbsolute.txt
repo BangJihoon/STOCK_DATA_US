@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\유안타증권\YOASample\YOACOMClientCSharp\obj\x86\Release\YOACOMClientCSharp.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\유안타증권\YOASample\YOACOMClientCSharp\obj\x86\Release\YOACOMClientCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\유안타증권\YOASample\YOACOMClientCSharp\obj\x86\Release\YOACOMClientCSharp.MainForm.resources
+C:\Users\Administrator\Desktop\유안타증권\YOASample\YOACOMClientCSharp\obj\x86\Release\YOACOMClientCSharp.Properties.Resources.resources
+C:\Users\Administrator\Desktop\유안타증권\YOASample\YOACOMClientCSharp\obj\x86\Release\YOACOMClientCSharp.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\유안타증권\YOASample\YOACOMClientCSharp\obj\x86\Release\Interop.YuantaCOMLib.dll
+C:\Users\Administrator\Desktop\유안타증권\YOASample\YOACOMClientCSharp\bin\Release\YOACOMClientCSharp.exe
+C:\Users\Administrator\Desktop\유안타증권\YOASample\YOACOMClientCSharp\bin\Release\YOACOMClientCSharp.pdb
+C:\Users\Administrator\Desktop\유안타증권\YOASample\YOACOMClientCSharp\obj\x86\Release\YOACOMClientCSharp.exe
+C:\Users\Administrator\Desktop\유안타증권\YOASample\YOACOMClientCSharp\obj\x86\Release\YOACOMClientCSharp.pdb

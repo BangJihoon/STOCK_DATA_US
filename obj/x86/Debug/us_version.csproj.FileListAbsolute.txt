@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\us_version_cshap\obj\x86\Debug\Interop.YuantaCOMLib.dll
+C:\Users\Administrator\Desktop\us_version_cshap\obj\x86\Debug\us_version.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\us_version_cshap\obj\x86\Debug\us_version.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\us_version_cshap\obj\x86\Debug\YOACOMClientCSharp.MainForm.resources
+C:\Users\Administrator\Desktop\us_version_cshap\obj\x86\Debug\YOACOMClientCSharp.Properties.Resources.resources
+C:\Users\Administrator\YuantaOpenAPI\Debug\us_version.exe.config
+C:\Users\Administrator\YuantaOpenAPI\Debug\us_version.exe
+C:\Users\Administrator\YuantaOpenAPI\Debug\us_version.pdb
+C:\Users\Administrator\Desktop\us_version_cshap\obj\x86\Debug\us_version.exe
+C:\Users\Administrator\Desktop\us_version_cshap\obj\x86\Debug\us_version.pdb
+C:\Users\Administrator\Desktop\us_version_cshap\obj\x86\Debug\us_version.csprojResolveAssemblyReference.cache
