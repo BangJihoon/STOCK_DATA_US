@@ -34,9 +34,11 @@ AI 엔진을 통해 종목별로 데이터를 분석하여 단기적으로 수�
 
 ### Deploy 
 
-AI ROBO-Advisor 웹앱
-<img src="https://github.com/BangJihoon/STOCK_DATA_US/blob/master/deploy.png"/>
+AI ROBO-Advisor 웹앱 : 
 
+<img src="https://github.com/BangJihoon/STOCK_DATA_US/blob/master/deploy.png" width="512px"/>
+
+<br/>
 
 주식 데이터 스트리밍 영상 : 
 
