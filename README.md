@@ -14,9 +14,14 @@ AI 엔진을 통해 종목별로 데이터를 분석하여 단기적으로 수�
 + 2019.03 ~ 2019.6 (3개월)
 
 <br/>
+ 
 
 ### 개발환경 및 언어
- C#, Mongo DB, Python, KT Cloud Server, Git, Financial API
+<img src="https://img.shields.io/badge/API-5C2D91?style=for-the-badge&logo=API&logoColor=white"/> <img src="https://img.shields.io/badge/CShap-ED2224?style=for-the-badge&logo=HTML5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MongoDB-009639?style=for-the-badge&logo=MongoDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-FCC624?style=for-the-badge&logo=Git&logoColor=white"/>
+
 
 <br/>
 
