@@ -29,3 +29,15 @@ AI 엔진을 통해 종목별로 데이터를 분석하여 단기적으로 수�
 + 장 마감 후 백 테스팅을 통한 수익종목 모의투자로 기계학습
 + Pyplot을 이용한 종목별 수집데이터를 이용한 일봉 차트 도출
 
+
+<br/>
+
+### Deploy 
+
+AI ROBO-Advisor 웹앱
+<img src="https://github.com/BangJihoon/STOCK_DATA_US/blob/master/deploy.png"/>
+
+
+주식 데이터 스트리밍 영상 : 
+
+https://user-images.githubusercontent.com/26866859/152375389-5a260dd1-e31f-4559-8b6a-4bed9fdcba79.mp4
